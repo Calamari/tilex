@@ -22,7 +22,7 @@ defmodule TilexWeb.AuthController do
   end
 
   def index(conn, _params) do
-    redirect(conn, to: "/auth/google")
+    redirect(conn, to: "/auth/github")
   end
 
   def delete(conn, _params) do

@@ -16,10 +16,10 @@
     "ENABLE_BASIC_AUTH": {
       "required": true
     },
-    "GOOGLE_CLIENT_ID": {
+    "GITHUB_CLIENT_ID": {
       "required": true
     },
-    "GOOGLE_CLIENT_SECRET": {
+    "GITHUB_CLIENT_SECRET": {
       "required": true
     },
     "ORGANIZATION_NAME": {
